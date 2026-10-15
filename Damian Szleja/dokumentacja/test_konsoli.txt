@@ -1,0 +1,13 @@
+Dane wejściowe:
+abc 0 -3 48 18
+
+Wynik rzeczywistego uruchomienia:
+Podaj dodatnią liczbę całkowitą a:
+Niepoprawna liczba.
+Podaj dodatnią liczbę całkowitą a:
+Niepoprawna liczba.
+Podaj dodatnią liczbę całkowitą a:
+Niepoprawna liczba.
+Podaj dodatnią liczbę całkowitą a:
+Podaj dodatnią liczbę całkowitą b:
+NWD: 6

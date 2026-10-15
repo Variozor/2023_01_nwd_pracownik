@@ -1,0 +1,25 @@
+DOKUMENTACJA EGZAMINU INF.04 - 2023
+Autor: Damian Szleja
+
+NARZĘDZIA
+System przygotowania i testów: Ubuntu 24.04.3 LTS.
+Środowisko pracy: edycja plików źródłowych i terminal Bash; kompilator OpenJDK 17.0.20.
+Języki: Java.
+Biblioteka interfejsu: Java Swing dla aplikacji desktopowej.
+
+WERYFIKACJA
+Konsola: skompilowana w Java 17 i uruchomiona; testy zakończone poprawnie.
+Desktopowa: skompilowana w Java 17. Próba uruchomienia zakończyła się HeadlessException, ponieważ środowisko nie ma graficznego pulpitu. Nie zweryfikowano wizualnie interfejsu ani interakcji z oknami.
+
+DOKUMENTACJA METOD
+nwd(a, b) - przyjmuje dwie dodatnie liczby całkowite i zwraca int: największy wspólny dzielnik. Stosuje odejmowanie zgodne ze schematem. Nie wykonuje wejścia ani wyjścia.
+Autor metod: Damian Szleja.
+
+TESTY INTERFEJSU DO WYKONANIA NA KOMPUTERZE Z ODPOWIEDNIM ŚRODOWISKIEM
+Desktopowa: wybrać długość i każdą kombinację trzech pól wyboru. Wygenerować hasło, zamknąć komunikat, wybrać stanowisko i Zatwierdź. Sprawdzić dane Damian Szleja, stanowisko i to samo hasło. Algorytm generatora sprawdzono automatycznie dla 8 kombinacji opcji, po 100 losowań.
+
+USTALENIA
+Na życzenie pominięto zdjęcia i zrzuty ekranu. Kod nie zawiera komentarzy; opis metod umieszczono w tym dokumencie zamiast w komentarzach wymaganych przez arkusz. Dane autora i nazwy folderów zawierają Damian Szleja zamiast numeru PESEL. Nie przypisano autorowi żadnego numeru identyfikacyjnego. Nie nagrano fizycznego nośnika.
+
+URUCHOMIENIE
+Instrukcje są dołączone do poszczególnych aplikacji. Projekty mobilne z 2026 r. należy wypakować z mobilna.zip przed otwarciem pliku csproj. Skopiowane pliki źródłowe obok archiwum są kopiami do oceny, a pełny projekt znajduje się w archiwum.
